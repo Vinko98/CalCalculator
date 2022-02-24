@@ -1,0 +1,11 @@
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\obj\Debug\CalCalculator.Controllers.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\obj\Debug\CalCalculator.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\bin\Debug\CalCalculator.Controllers.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\bin\Debug\CalCalculator.Controllers.pdb
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\bin\Debug\CalCalculator.BaseLib.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\bin\Debug\CalCalculator.Model.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\bin\Debug\CalCalculator.BaseLib.pdb
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\bin\Debug\CalCalculator.Model.pdb
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\obj\Debug\CalCalculator.Controllers.csproj.CopyComplete
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\obj\Debug\CalCalculator.Controllers.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Controllers\obj\Debug\CalCalculator.Controllers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Model\obj\Debug\CalCalculator.Model.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Model\obj\Debug\CalCalculator.Model.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Model\bin\Debug\CalCalculator.Model.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Model\bin\Debug\CalCalculator.Model.pdb
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Model\obj\Debug\CalCalculator.Model.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.Model\obj\Debug\CalCalculator.Model.pdb

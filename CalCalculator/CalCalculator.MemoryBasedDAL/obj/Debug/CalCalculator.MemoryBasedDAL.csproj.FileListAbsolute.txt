@@ -1,0 +1,9 @@
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.MemoryBasedDAL\obj\Debug\CalCalculator.MemoryBasedDAL.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.MemoryBasedDAL\obj\Debug\CalCalculator.MemoryBasedDAL.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.MemoryBasedDAL\bin\Debug\CalCalculator.MemoryBasedDAL.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.MemoryBasedDAL\bin\Debug\CalCalculator.MemoryBasedDAL.pdb
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.MemoryBasedDAL\bin\Debug\CalCalculator.Model.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.MemoryBasedDAL\bin\Debug\CalCalculator.Model.pdb
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.MemoryBasedDAL\obj\Debug\CalCalculator.MemoryBasedDAL.csproj.CopyComplete
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.MemoryBasedDAL\obj\Debug\CalCalculator.MemoryBasedDAL.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.MemoryBasedDAL\obj\Debug\CalCalculator.MemoryBasedDAL.pdb

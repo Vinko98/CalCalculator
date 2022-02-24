@@ -1,0 +1,9 @@
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.BaseLib\bin\Debug\CalCalculator.BaseLib.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.BaseLib\bin\Debug\CalCalculator.BaseLib.pdb
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.BaseLib\obj\Debug\CalCalculator.BaseLib.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.BaseLib\obj\Debug\CalCalculator.BaseLib.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.BaseLib\obj\Debug\CalCalculator.BaseLib.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.BaseLib\obj\Debug\CalCalculator.BaseLib.pdb
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.BaseLib\bin\Debug\CalCalculator.Model.dll
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.BaseLib\bin\Debug\CalCalculator.Model.pdb
+C:\Users\Johnny\source\repos\CalCalculator\CalCalculator.BaseLib\obj\Debug\CalCalculator.BaseLib.csproj.CopyComplete

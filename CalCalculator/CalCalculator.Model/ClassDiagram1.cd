@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Value Object">
+    <Position X="10.567" Y="2.617" Height="0.317" Width="0.908" />
+  </Comment>
+  <Comment CommentText="Entity">
+    <Position X="5.867" Y="1.25" Height="0.291" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Entity">
+    <Position X="1.517" Y="1.125" Height="0.291" Width="0.7" />
+  </Comment>
+  <Comment CommentText="&lt;---Tvornice">
+    <Position X="9.613" Y="6.463" Height="0.291" Width="0.986" />
+  </Comment>
+  <Comment CommentText="&lt;&lt;&lt;-Sučelja koja definiraju repozitorije&#xD;&#xA;">
+    <Position X="9.275" Y="8.05" Height="0.517" Width="1.558" />
+  </Comment>
+  <Class Name="CalCalculator.Model.Energy">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Energy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.Entity&lt;EId&gt;" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CalCalculator.Model.Meal">
+    <Position X="7.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Meal.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="ProductsInMeal" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CalCalculator.Model.User">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAIAAACAAEAAAQAABCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="energyExchanges" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CalCalculator.Model.Workout">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Workout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.EnergyExchange" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>EnergyExchange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.EnergyConsumption">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnergyConsumption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.EnergyIntake">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="CalCalculator.Model.EnergyExchange" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="1.191" />
+        <Point X="1.25" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnergyIntake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.Product">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAASAAAQAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.Food" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.Beverage" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Beverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.Factories.EnergyExchangeFactory">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\EnergyExchangeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.Factories.MealFactory">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Factories\MealFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.Factories.ProductFactory">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\ProductFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.Factories.UserFactory">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\UserFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalCalculator.Model.Factories.WorkoutFactory">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Factories\WorkoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CalCalculator.Model.Repositories.IEnergyExchangeRepository">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAgAAAQAAAAAAAAAAAAAAQBAAAAACAAAAAA=</HashCode>
+      <FileName>Repositories\IEnergyExchangeRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CalCalculator.Model.Repositories.IMealRepository">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAIACCIACAAAAAAAAgAAABQAACBAAAAAIAAAAAA=</HashCode>
+      <FileName>Repositories\IMealRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CalCalculator.Model.Repositories.IProductRepository">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAACAIQAAAIAAAQAgAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Repositories\IProductRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CalCalculator.Model.Repositories.IUserRepository">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAACAAIAAAAAAAEIAAAAAAAAAAAAAAgAAAEQgEAAgA=</HashCode>
+      <FileName>Repositories\IUserRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CalCalculator.Model.Repositories.IWorkoutRepository">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAACAAQAAAAAIAgAAIAEAAAABAAEAAAQ=</HashCode>
+      <FileName>Repositories\IWorkoutRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
